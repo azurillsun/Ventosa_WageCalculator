@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ventosa Wage Calculator</string>
+    <string name="emptitle">Wage Calculator</string>
+    <string name="empname">Employee Name</string>
+    <string name="empwage">Wage</string>
+    <string name="emptax">Tax</string>
+    <string name="empnsal">Net Salary</string>
+
+    <string name="btnok">OK</string>
+    <string name="btnclear">Clear</string>
+</resources>
